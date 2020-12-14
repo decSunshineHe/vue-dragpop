@@ -1,0 +1,9 @@
+#忽略目录
+src/
+
+#忽略文件
+.gitignore
+.npmignore
+
+#忽略webpack配置
+webpack.config.js
